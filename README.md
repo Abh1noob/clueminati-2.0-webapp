@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="https://i.ibb.co/4J9LXxS/cclogo.png" width=160 title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
 
-<h2 align="center"> Project Name </h2>
+<h2 align="center"> Project Names </h2>
 <br/>
 
 > <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut. Non enim praesent elementum facilisis leo. Vitae congue eu consequat ac felis donec et odio. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Viverra orci sagittis eu volutpat odio facilisis mauris.
